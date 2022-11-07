@@ -1,0 +1,103 @@
+{
+  "id": "vampiro-5ed",
+  "title": "Compêndio de Vampiro: A Máscara 5ª edição",
+  "authors": ["TheRainbwHunter"],
+  "version": "0.0.1",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "packs": [
+    {
+      "label": "ressonancias",
+      "type": "Item",
+      "name": "ressonancias",
+      "path": "packs/ressonancias.db",
+      "system": "vtm5e",
+      "flags": {}
+    },
+    {
+      "label": "antecedentes",
+      "type": "Item",
+      "name": "antecedentes",
+      "path": "packs/antecedentes.db",
+      "system": "vtm5e",
+      "flags": {}
+    },
+    {
+      "label": "disciplinas",
+      "type": "Item",
+      "name": "disciplinas",
+      "path": "packs/disciplinas.db",
+      "system": "vtm5e",
+      "flags": {}
+    },
+    {
+      "label": "vantagens",
+      "type": "Item",
+      "name": "vantagens",
+      "path": "packs/vantagens.db",
+      "system": "vtm5e",
+      "flags": {}
+    },
+    {
+      "label": "desvantagens",
+      "type": "Item",
+      "name": "desvantagens",
+      "path": "packs/desvantagens.db",
+      "system": "vtm5e",
+      "flags": {}
+    },
+    {
+      "label": "desvantagens",
+      "type": "Item",
+      "name": "desvantagens",
+      "path": "packs/desvantagens.db",
+      "system": "vtm5e",
+      "flags": {}
+    },
+    {
+      "label": "especializacoes",
+      "type": "Item",
+      "name": "especializacoes",
+      "path": "packs/especializacoes.db",
+      "system": "vtm5e",
+      "flags": {}
+    },
+    {
+      "label": "favores",
+      "type": "Item",
+      "name": "favores",
+      "path": "packs/favores.db",
+      "system": "vtm5e",
+      "flags": {}
+    },
+    {
+      "label": "coterie",
+      "type": "Item",
+      "name": "coterie",
+      "path": "packs/coterie.db",
+      "system": "vtm5e",
+      "flags": {}
+    },
+    {
+      "label": "cacada",
+      "type": "Item",
+      "name": "cacada",
+      "path": "packs/cacada.db",
+      "system": "vtm5e",
+      "flags": {}
+    },
+    {
+      "label": "ficha-de-conhecimento",
+      "type": "Item",
+      "name": "ficha-de-conhecimento",
+      "path": "packs/ficha-de-conhecimento.db",
+      "system": "vtm5e",
+      "flags": {}
+    }
+    
+    
+    
+  ]
+}
