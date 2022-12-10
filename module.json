@@ -3,6 +3,9 @@
   "title": "Compêndio de Vampiro: A Máscara 5ª edição",
   "authors": ["TheRainbwHunter"],
   "version": "0.0.1",
+  "url": "https://github.com/silverKurt/vampiro-5ed",
+  "manifest": "https://raw.githubusercontent.com/silverKurt/vampiro-5ed/main/module.json",  
+  "download": "https://github.com/silverKurt/vampiro-5ed/archive/main.zip",
   "compatibility": {
     "minimum": "10",
     "verified": "10"
@@ -93,6 +96,14 @@
       "type": "Item",
       "name": "ficha-de-conhecimento",
       "path": "packs/ficha-de-conhecimento.db",
+      "system": "vtm5e",
+      "flags": {}
+    },
+    {
+      "label": "tabela-de-ressonancia",
+      "type": "RollTable",
+      "name": "tabela-de-ressonancia",
+      "path": "packs/tabela-de-ressonancia.db",
       "system": "vtm5e",
       "flags": {}
     }
